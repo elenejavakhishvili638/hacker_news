@@ -1,0 +1,12 @@
+.news {
+  display: grid;
+  gap: 2rem;
+  width: 90vw;
+  /* grid-template-columns: repeat(auto-fit, minmax(360px, 2fr)); */
+}
+
+@media (min-width: 998px) {
+  .news {
+    grid-template-columns: 1fr 1fr;
+  }
+}

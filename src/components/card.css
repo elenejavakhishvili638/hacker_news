@@ -1,0 +1,34 @@
+.card {
+  background-color: white;
+  border-radius: 0.8rem;
+  padding: 10px 20px;
+  letter-spacing: 0.25px;
+}
+
+.card h4 {
+  color: #495579;
+  margin-bottom: 10px;
+}
+
+.card p {
+  color: #617d98;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.news-button button {
+  border: none;
+  text-transform: capitalize;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0;
+}
+
+.read-more {
+  margin-right: 10px;
+  color: #495579;
+}
+
+.remove {
+  color: #bb2525;
+}

@@ -1,0 +1,25 @@
+.search-form {
+  margin-bottom: 4rem;
+  width: 90vw;
+  align-items: center;
+}
+
+.search-form h1 {
+  text-transform: capitalize;
+  color: #2b3467;
+  margin-bottom: 3rem;
+  letter-spacing: 0.3rem;
+}
+
+.search-form input {
+  padding: 10px 5px;
+  outline: none;
+  background-color: #eeeeee;
+  border-bottom-color: #2b3467;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: none;
+  width: 80vw;
+  color: #2b3467;
+}

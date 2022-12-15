@@ -1,0 +1,32 @@
+.pages {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 4rem;
+}
+
+.pages-wrapper {
+  display: flex;
+  width: 70vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.pages-wrapper h3 {
+  color: #2b3467;
+  letter-spacing: 0.1rem;
+  margin: 0 2rem;
+}
+
+.pages-wrapper button {
+  align-items: center;
+  text-align: center;
+  padding: 0.3rem 0.6rem;
+  letter-spacing: 0.1rem;
+  border-radius: 0.25rem;
+  text-transform: capitalize;
+  border: none;
+  color: white;
+  background-color: #2b3467;
+  cursor: pointer;
+  font-weight: 500;
+}
