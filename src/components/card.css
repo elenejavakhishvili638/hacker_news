@@ -16,7 +16,8 @@
   text-transform: capitalize;
 }
 
-.news-button button {
+.news-button button,
+.news-button a {
   border: none;
   text-transform: capitalize;
   background-color: transparent;
@@ -25,10 +26,13 @@
 }
 
 .read-more {
-  margin-right: 10px;
+  margin-right: 15px;
   color: #495579;
+  text-decoration: none;
+  font-size: 15px;
 }
 
 .remove {
   color: #bb2525;
+  font-size: 15px;
 }

@@ -22,4 +22,6 @@
   border-left-style: none;
   width: 80vw;
   color: #2b3467;
+  text-transform: capitalize;
+  font-size: 18px;
 }
